@@ -27,7 +27,7 @@ function generateFib(num) {
 }
 
 /*
-O()
+O(n)
 
 - first operation: constant
 - second operation: linear. there are various if statements inside the loop, 
